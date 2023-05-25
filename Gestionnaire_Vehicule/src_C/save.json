@@ -1,0 +1,16 @@
+[
+  {
+    "marque": "Opel",
+    "modele": "Corsa",
+    "annee": 2011,
+    "couleur": "Grise",
+    "type_vehicule": "Voiture"
+  },
+  {
+    "marque": "Yamaha",
+    "modele": "Dragstar",
+    "annee": 2001,
+    "couleur": "Rouge_Bordeaux",
+    "type_vehicule": "Moto"
+  }
+]
